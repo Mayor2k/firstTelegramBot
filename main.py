@@ -1,5 +1,9 @@
 import telebot
+<<<<<<< HEAD
+#more socks proxy:
+=======
 #more proxy:
+>>>>>>> a8a371582159375a3c51fcc4c152a3cbf205ff02
 #https':'socks5://login:pass@orbtl.s5.opennetwork.cc:port
 #127.0.0.1:9150
 
