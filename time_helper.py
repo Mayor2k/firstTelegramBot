@@ -66,3 +66,9 @@ def get_current_date():
     date = date.split(",")
     date = [int(date[x]) for x in range(3)]
     return date
+
+def garbage(string):
+    remove_symbols = "[('',)]"
+    for char in remove_symbols:
+        string = string.replace(char, "")
+    return string
